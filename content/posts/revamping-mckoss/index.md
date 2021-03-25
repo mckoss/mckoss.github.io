@@ -3,6 +3,7 @@ title: "Revamping mckoss.com"
 date: 2021-03-24T20:43:43-07:00
 draft: false
 img: "under-construction.png"
+tags: ["web dev"]
 ---
 
 mckoss.com started it's life on the internet [since at least 1999](https://web.archive.org/web/19990125090830/http://mckoss.com:80/) looking like this:

@@ -1,0 +1,18 @@
+figure img {
+    display: block;
+    margin: auto;
+    border: 2px solid lightgray;
+    padding: 7px;
+    box-shadow: 10px 10px 5px lightgray;
+}
+
+figure h4 {
+    font-weight: 100;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+div.post-content {
+    font-size: 21px;
+}

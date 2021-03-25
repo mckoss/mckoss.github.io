@@ -1,3 +1,19 @@
 baseURL = "https://mckoss.com/"
 languageCode = "en-us"
 title = "mckoss.com | Mike Koss"
+theme = "hugo-cards"
+paginate = 6
+
+[params]
+builtBy = "Mike Koss"
+defaultImage = "gopher.jpg"
+
+twitter = "https://twitter.com/mckoss"
+github = "https://github.com/mckoss"
+email = "mike@mckoss.com"
+
+analytics = "UA-177353-1"
+
+[params.copyright]
+name = "Mike Koss"
+link = "https://mckoss.com"

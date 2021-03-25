@@ -2,10 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://mckoss.com/</loc>
+    <lastmod>2021-03-24T20:43:43-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://mckoss.com/posts/</loc>
+    <lastmod>2021-03-24T20:43:43-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://mckoss.com/posts/revamping-mckoss/</loc>
+    <lastmod>2021-03-24T20:43:43-07:00</lastmod>
+  </url><url>
+    <loc>https://mckoss.com/tags/</loc>
+    <lastmod>2021-03-24T20:43:43-07:00</lastmod>
+  </url><url>
+    <loc>https://mckoss.com/tags/web-dev/</loc>
+    <lastmod>2021-03-24T20:43:43-07:00</lastmod>
+  </url><url>
+    <loc>https://mckoss.com/categories/</loc>
   </url>
 </urlset>

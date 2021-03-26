@@ -13,11 +13,7 @@
       <pubDate>Thu, 25 Mar 2021 21:29:01 -0700</pubDate>
       
       <guid>https://mckoss.com/posts/paper-enigma/</guid>
-      <description>This paper simulator of a German Enigma machine is 100% compatible with the real thing; you can send and receive messages between the Paper Enigma and the WWII-era cryptography machine.
-Download this one-page PDF file by clicking one of the links below:
- Paper Enigma
-  German Paper Enigma
- Just print (I suggest using heavy card stock), cut out the strips, and follow the directions on the page to build your own fully functional Enigma machine.</description>
+      <description>This paper simulator of a German Enigma machine is 100% compatible with the real thing; you can send and receive messages between the Paper Enigma and the WWII-era cryptography machine.</description>
     </item>
     
     <item>
@@ -26,8 +22,10 @@ Download this one-page PDF file by clicking one of the links below:
       <pubDate>Wed, 24 Mar 2021 20:43:43 -0700</pubDate>
       
       <guid>https://mckoss.com/posts/revamping-mckoss/</guid>
-      <description>mckoss.com started it&amp;rsquo;s life on the internet since at least 1999 looking like this:
-  mckoss.com in 1999   I even had a way of sending SMS messages to my pager-watch along with my old cell phone number on the internet for all to see. This page was all hand-crafted by me; it may not have even had any css in it for all I can tell. Just some align=left, h1, &amp;lt;i&amp;gt; tags, etc.</description>
+      <description>&lt;pre&gt;&lt;code&gt;The history of mckoss.com and it&#39;s conversion to a statically generated
+web site.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
   </channel>

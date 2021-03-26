@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mckoss.com/tags/crypto/</loc>
+    <lastmod>2021-03-25T21:29:01-07:00</lastmod>
+  </url><url>
+    <loc>https://mckoss.com/tags/enigma/</loc>
+    <lastmod>2021-03-25T21:29:01-07:00</lastmod>
+  </url><url>
     <loc>https://mckoss.com/</loc>
     <lastmod>2021-03-25T21:29:01-07:00</lastmod>
   </url><url>
     <loc>https://mckoss.com/posts/</loc>
     <lastmod>2021-03-25T21:29:01-07:00</lastmod>
   </url><url>
+    <loc>https://mckoss.com/tags/</loc>
+    <lastmod>2021-03-25T21:29:01-07:00</lastmod>
+  </url><url>
     <loc>https://mckoss.com/posts/paper-enigma/</loc>
     <lastmod>2021-03-25T21:29:01-07:00</lastmod>
   </url><url>
     <loc>https://mckoss.com/posts/revamping-mckoss/</loc>
-    <lastmod>2021-03-24T20:43:43-07:00</lastmod>
-  </url><url>
-    <loc>https://mckoss.com/tags/</loc>
     <lastmod>2021-03-24T20:43:43-07:00</lastmod>
   </url><url>
     <loc>https://mckoss.com/tags/web-dev/</loc>

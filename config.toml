@@ -7,7 +7,7 @@ publishDir = "docs"
 
 [params]
 builtBy = "Mike Koss"
-defaultImage = "gopher.jpg"
+defaultImage = "mike-closeup.jpg"
 
 custom_css = ["css/custom.css"]
 

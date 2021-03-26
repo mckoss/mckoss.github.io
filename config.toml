@@ -4,6 +4,7 @@ title = "mckoss.com | Mike Koss"
 theme = "hugo-cards"
 paginate = 6
 publishDir = "docs"
+summaryLength = 30
 
 [params]
 builtBy = "Mike Koss"

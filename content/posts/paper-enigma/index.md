@@ -2,6 +2,7 @@
 title = "The Paper Enigma"
 date = 2021-03-25T21:29:01-07:00
 draft = false
+tags = ["enigma", "crypto"]
 img = "paper-enigma-thumbnail.png"
 aliases = ["/Crypto/Enigma.htm", "/crypto/enigma.htm"]
 +++

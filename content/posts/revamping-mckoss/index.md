@@ -3,7 +3,7 @@ title = "Revamping mckoss.com"
 date = 2021-03-24T20:43:43-07:00
 draft = false
 img = "under-construction.png"
-tags = ["web dev"]
+tags = ["biographical"]
 summary = """
     The history of mckoss.com and it's conversion to a statically generated
     web site.
@@ -21,7 +21,9 @@ Several years ago, I got fed up with my web host, and I just let mckoss.com fade
 
 I've been meaning to resurrect mckoss.com using a more modern design (or at least *some* design).  A few times I played with Jekyll as a static site generator - but I really don't like the tool chain that depends on Ruby; a language I never much cared for with some obscure (to me) package installation mechanisms.
 
-So now, in 2021, I am trying [Hugo](https://gohugo.io/) - a static site generator written in Go.  Go is a language I actually like, and besides, Go compiles to native binaries and so there are no 3rd party packages to have to install.  A Go program is self-contained (as desktop software *should* be).
+So now, in 2021, I am trying [Hugo](https://gohugo.io/) - a static site generator written in Go.  Go is a language I actually like, and besides, Go compiles to native binaries and so there are no 3rd party packages to have to install.  A Go program is self-contained (as desktop software *should* be).  I started with a
+site theme based on [Hugo Cards](https://themes.gohugo.io/hugo-cards/), but I've
+[modified it extensively](https://github.com/mckoss/hugo-cards/commits/master) to optimize it for my use.
 
 Out of nostalgia, here are some more milestones in the history of mckoss.com:
 

@@ -2,9 +2,12 @@ baseURL = "https://mckoss.com/"
 languageCode = "en-us"
 title = "mckoss.com | Mike Koss"
 theme = "hugo-cards"
-paginate = 6
+paginate = 12
 publishDir = "docs"
 summaryLength = 30
+
+[taxonomies]
+tag = "tags"
 
 [params]
 builtBy = "Mike Koss"

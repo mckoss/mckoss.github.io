@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>biographical on mckoss.com | Mike Koss</title>
+    <link>https://mckoss.com/tags/biographical/</link>
+    <description>Recent content in biographical on mckoss.com | Mike Koss</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Mar 2021 20:43:43 -0700</lastBuildDate><atom:link href="https://mckoss.com/tags/biographical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revamping mckoss.com</title>
+      <link>https://mckoss.com/posts/revamping-mckoss/</link>
+      <pubDate>Wed, 24 Mar 2021 20:43:43 -0700</pubDate>
+      
+      <guid>https://mckoss.com/posts/revamping-mckoss/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;The history of mckoss.com and it&#39;s conversion to a statically generated
+web site.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,6 +11,7 @@ tag = "tags"
 
 [params]
 builtBy = "Mike Koss"
+description = "The personal home page of Mike Koss"
 defaultImage = "mike-closeup.jpg"
 
 custom_css = ["css/custom.css"]

@@ -28,8 +28,11 @@ model. It's great as an educational tool, or just for fun!
 
 {{< figure src=enigma-photo.jpg title="Enigma Machine and Rotors" >}}
 
-Over the years, many teachers have used the Paper Enigma in their classrooms.  I've really enjoyed seeing kids and adults having fun and learning a little something about cryptography and history.
+If you want to confirm your encoding and decoding, you can use this:
 
+> [Enigma Machine Simulator](http://mckoss.com/enigma-simulator-js/)
+
+Over the years, many teachers have used the Paper Enigma in their classrooms.  I've really enjoyed seeing kids and adults having fun and learning a little something about cryptography and history.
 
 {{< figure src=2006_kenparker.jpg title="Ken Parker's class (2006)." >}}
 

@@ -18,6 +18,10 @@
       animation: r-path 4s linear infinite;
     }
     
+    text.lin {
+      animation: l-path 4s linear infinite;
+    }
+    
     @keyframes c-path {
       0% {
         transform: rotate(-0.25turn);
@@ -64,10 +68,28 @@
        }
     }
     
+    @keyframes l-path {
+      0% {
+        offset-distance: 0%;
+      }
+      30% {
+        offset-distance: 0%;
+      }
+      50% {
+         offset-distance: 100%;
+       }
+      80% {
+         offset-distance: 100%;
+       }
+       100% {
+         offset-distance: 0%;
+       }
+    }
+    
     path {
       fill: transparent;
       stroke: red;
       stroke-width: 5;
     }
   </style>
-<text class="for" style="offset-path: path(&quot;M 45 170 A 50 50 0 0 0 145 170 A 50 50 0 0 0 45 170&quot;);">K</text><text class="for" style="offset-path: path(&quot;M 95 170 A 87.5 87.5 0 0 0 270 170 A 87.5 87.5 0 0 0 95 170&quot;);">K</text><text class="rev" style="offset-path: path(&quot;M 145 170 A 100 100 0 0 0 -55 170 A 100 100 0 0 0 145 170&quot;);">7</text><text x="195" y="170">E</text><text class="rev" style="offset-path: path(&quot;M 245 170 A 75 75 0 0 0 95 170 A 75 75 0 0 0 245 170&quot;);">I</text><text class="rev" style="offset-path: path(&quot;M 295 170 A 125 125 0 0 0 45 170 A 125 125 0 0 0 295 170&quot;);">M</text></svg>
+<text class="for" style="offset-path: path(&quot;M 45 170 A 112.5 112.5 0 0 0 270 170 A 112.5 112.5 0 0 0 45 170&quot;);">K</text><text class="lin" style="offset-path: path(&quot;M 95 170 H 145&quot;);">K</text><text class="lin" style="offset-path: path(&quot;M 145 170 H 195&quot;);">7</text><rect x="168.3203125" y="118.2421875" width="53.359375" height="89.5" fill="white"></rect><text x="195" y="170">E</text><text class="rev" style="offset-path: path(&quot;M 245 170 A 75 75 0 0 0 95 170 A 75 75 0 0 0 245 170&quot;);">I</text><text class="rev" style="offset-path: path(&quot;M 295 170 A 125 125 0 0 0 45 170 A 125 125 0 0 0 295 170&quot;);">M</text></svg>

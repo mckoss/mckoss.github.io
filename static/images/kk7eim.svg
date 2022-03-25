@@ -1,0 +1,73 @@
+<svg id="callsign" viewBox="0 0 350 320" width="350" height="320" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    :root {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 5rem;
+    }
+    
+    text {
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    
+    text.for {
+      animation: c-path 4s linear infinite;
+    }
+    
+    text.rev {
+      animation: r-path 4s linear infinite;
+    }
+    
+    @keyframes c-path {
+      0% {
+        transform: rotate(-0.25turn);
+        offset-distance: 0%;
+      }
+      30% {
+        transform: rotate(-0.25turn);
+        offset-distance: 0%;
+      }
+      50% {
+         transform: rotate(0.25turn);
+         offset-distance: 50%;
+       }
+      80% {
+         transform: rotate(0.25turn);
+         offset-distance: 50%;
+       }
+       100% {
+         transform: rotate(0.75turn);
+         offset-distance: 100%;
+       }
+    }
+    
+    @keyframes r-path {
+      0% {
+        transform: rotate(0.25turn);
+        offset-distance: 0%;
+      }
+      30% {
+        transform: rotate(0.25turn);
+        offset-distance: 0%;
+      }
+      50% {
+         transform: rotate(0.75turn);
+         offset-distance: 50%;
+       }
+      80% {
+         transform: rotate(0.75turn);
+         offset-distance: 50%;
+       }
+       100% {
+         transform: rotate(1.25turn);
+         offset-distance: 100%;
+       }
+    }
+    
+    path {
+      fill: transparent;
+      stroke: red;
+      stroke-width: 5;
+    }
+  </style>
+<text class="for" style="offset-path: path(&quot;M 45 170 A 50 50 0 0 0 145 170 A 50 50 0 0 0 45 170&quot;);">K</text><text class="for" style="offset-path: path(&quot;M 95 170 A 100 100 0 0 0 295 170 A 100 100 0 0 0 95 170&quot;);">K</text><text class="rev" style="offset-path: path(&quot;M 145 170 A 100 100 0 0 0 -55 170 A 100 100 0 0 0 145 170&quot;);">7</text><text x="195" y="170">E</text><text class="rev" style="offset-path: path(&quot;M 245 170 A 75 75 0 0 0 95 170 A 75 75 0 0 0 245 170&quot;);">I</text><text class="rev" style="offset-path: path(&quot;M 295 170 A 125 125 0 0 0 45 170 A 125 125 0 0 0 295 170&quot;);">M</text></svg>

@@ -2,64 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on mckoss.com | Mike Koss</title>
-    <link>https://mckoss.com/tags/</link>
+    <link>http://192.168.68.63:3000/tags/</link>
     <description>Recent content in Tags on mckoss.com | Mike Koss</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 07:00:00 -0700</lastBuildDate><atom:link href="https://mckoss.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 07:00:00 -0700</lastBuildDate>
+    <atom:link href="http://192.168.68.63:3000/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ai</title>
-      <link>https://mckoss.com/tags/ai/</link>
+      <title>Ai</title>
+      <link>http://192.168.68.63:3000/tags/ai/</link>
       <pubDate>Fri, 01 May 2026 07:00:00 -0700</pubDate>
-      
-      <guid>https://mckoss.com/tags/ai/</guid>
+      <guid>http://192.168.68.63:3000/tags/ai/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>projects</title>
-      <link>https://mckoss.com/tags/projects/</link>
+      <title>Projects</title>
+      <link>http://192.168.68.63:3000/tags/projects/</link>
       <pubDate>Fri, 01 May 2026 07:00:00 -0700</pubDate>
-      
-      <guid>https://mckoss.com/tags/projects/</guid>
+      <guid>http://192.168.68.63:3000/tags/projects/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>vibe-coding</title>
-      <link>https://mckoss.com/tags/vibe-coding/</link>
+      <title>Vibe-Coding</title>
+      <link>http://192.168.68.63:3000/tags/vibe-coding/</link>
       <pubDate>Fri, 01 May 2026 07:00:00 -0700</pubDate>
-      
-      <guid>https://mckoss.com/tags/vibe-coding/</guid>
+      <guid>http://192.168.68.63:3000/tags/vibe-coding/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web</title>
-      <link>https://mckoss.com/tags/web/</link>
+      <title>Web</title>
+      <link>http://192.168.68.63:3000/tags/web/</link>
       <pubDate>Fri, 01 May 2026 07:00:00 -0700</pubDate>
-      
-      <guid>https://mckoss.com/tags/web/</guid>
+      <guid>http://192.168.68.63:3000/tags/web/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>crypto</title>
-      <link>https://mckoss.com/tags/crypto/</link>
+      <title>Crypto</title>
+      <link>http://192.168.68.63:3000/tags/crypto/</link>
       <pubDate>Thu, 25 Mar 2021 21:29:01 -0700</pubDate>
-      
-      <guid>https://mckoss.com/tags/crypto/</guid>
+      <guid>http://192.168.68.63:3000/tags/crypto/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>biographical</title>
-      <link>https://mckoss.com/tags/biographical/</link>
+      <title>Biographical</title>
+      <link>http://192.168.68.63:3000/tags/biographical/</link>
       <pubDate>Wed, 24 Mar 2021 20:43:43 -0700</pubDate>
-      
-      <guid>https://mckoss.com/tags/biographical/</guid>
+      <guid>http://192.168.68.63:3000/tags/biographical/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

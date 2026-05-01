@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.68.63:3000/tags/ai/</loc>
+    <loc>https://mckoss.com/tags/ai/</loc>
     <lastmod>2026-05-01T07:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/</loc>
+    <loc>https://mckoss.com/</loc>
     <lastmod>2026-05-01T07:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/posts/</loc>
+    <loc>https://mckoss.com/posts/</loc>
     <lastmod>2026-05-01T07:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/tags/projects/</loc>
+    <loc>https://mckoss.com/tags/projects/</loc>
     <lastmod>2026-05-01T07:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/tags/</loc>
+    <loc>https://mckoss.com/tags/</loc>
     <lastmod>2026-05-01T07:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/tags/vibe-coding/</loc>
+    <loc>https://mckoss.com/tags/vibe-coding/</loc>
     <lastmod>2026-05-01T07:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/tags/web/</loc>
+    <loc>https://mckoss.com/tags/web/</loc>
     <lastmod>2026-05-01T07:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/posts/whidbey-island-dashboard/</loc>
+    <loc>https://mckoss.com/posts/whidbey-island-dashboard/</loc>
     <lastmod>2026-05-01T07:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/tags/crypto/</loc>
+    <loc>https://mckoss.com/tags/crypto/</loc>
     <lastmod>2021-03-25T21:29:01-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/posts/paper-enigma/</loc>
+    <loc>https://mckoss.com/posts/paper-enigma/</loc>
     <lastmod>2021-03-25T21:29:01-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/tags/biographical/</loc>
+    <loc>https://mckoss.com/tags/biographical/</loc>
     <lastmod>2021-03-24T20:43:43-07:00</lastmod>
   </url><url>
-    <loc>http://192.168.68.63:3000/posts/revamping-mckoss/</loc>
+    <loc>https://mckoss.com/posts/revamping-mckoss/</loc>
     <lastmod>2021-03-24T20:43:43-07:00</lastmod>
   </url>
 </urlset>

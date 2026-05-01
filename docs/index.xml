@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mckoss.com | Mike Koss</title>
-    <link>http://192.168.68.63:3000/</link>
+    <link>https://mckoss.com/</link>
     <description>Recent content on mckoss.com | Mike Koss</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2026 07:00:00 -0700</lastBuildDate>
-    <atom:link href="http://192.168.68.63:3000/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mckoss.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Whidbey Island Dashboard</title>
-      <link>http://192.168.68.63:3000/posts/whidbey-island-dashboard/</link>
+      <link>https://mckoss.com/posts/whidbey-island-dashboard/</link>
       <pubDate>Fri, 01 May 2026 07:00:00 -0700</pubDate>
-      <guid>http://192.168.68.63:3000/posts/whidbey-island-dashboard/</guid>
+      <guid>https://mckoss.com/posts/whidbey-island-dashboard/</guid>
       <description>&lt;pre&gt;&lt;code&gt;We recently bought a vacation home on Whidbey Island — and I turned a&#xA;spare TV into an ambient dashboard showing tides, weather, and ferry&#xA;schedules. It&#39;s free to use at whidbey-dashboard.mckoss.com.&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;</description>
     </item>
     <item>
       <title>The Paper Enigma</title>
-      <link>http://192.168.68.63:3000/posts/paper-enigma/</link>
+      <link>https://mckoss.com/posts/paper-enigma/</link>
       <pubDate>Thu, 25 Mar 2021 21:29:01 -0700</pubDate>
-      <guid>http://192.168.68.63:3000/posts/paper-enigma/</guid>
+      <guid>https://mckoss.com/posts/paper-enigma/</guid>
       <description>&lt;p&gt;This paper simulator of a German Enigma machine is 100% compatible with the&#xA;real thing; you can send and receive messages between the Paper Enigma and the&#xA;WWII-era cryptography machine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Revamping mckoss.com</title>
-      <link>http://192.168.68.63:3000/posts/revamping-mckoss/</link>
+      <link>https://mckoss.com/posts/revamping-mckoss/</link>
       <pubDate>Wed, 24 Mar 2021 20:43:43 -0700</pubDate>
-      <guid>http://192.168.68.63:3000/posts/revamping-mckoss/</guid>
+      <guid>https://mckoss.com/posts/revamping-mckoss/</guid>
       <description>&lt;pre&gt;&lt;code&gt;The history of mckoss.com and it&#39;s conversion to a statically generated&#xA;web site.&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;</description>
     </item>
   </channel>

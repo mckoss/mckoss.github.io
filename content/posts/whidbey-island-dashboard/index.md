@@ -7,7 +7,7 @@ tags = ["projects", "web", "vibe-coding", "ai"]
 summary = """
     We recently bought a vacation home on Whidbey Island — and I turned a
     spare TV into an ambient dashboard showing tides, weather, and ferry
-    schedules. It's free to use at dashboard.mckoss.com.
+    schedules. It's free to use at whidbey-dashboard.mckoss.com.
     """
 +++
 
@@ -56,7 +56,7 @@ the form, received the confirmation, and added the key to the config.
 
 ## Use It Yourself
 
-The dashboard is live at **[dashboard.mckoss.com](https://dashboard.mckoss.com)**
+The dashboard is live at **[whidbey-dashboard.mckoss.com](https://whidbey-dashboard.mckoss.com)**
 — free for anyone to use. The
 [source is on GitHub](https://github.com/mckoss/whidbey-dashboard).
 

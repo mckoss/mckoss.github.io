@@ -59,3 +59,18 @@ the form, received the confirmation, and added the key to the config.
 The dashboard is live at **[dashboard.mckoss.com](https://dashboard.mckoss.com)**
 — free for anyone to use. The
 [source is on GitHub](https://github.com/mckoss/whidbey-dashboard).
+
+## Running It on Your TV
+
+For a clean full-screen display with no browser chrome, I use
+[Fully Kiosk Browser](https://www.fully-kiosk.com/) on a Google TV. It's an
+Android app, so it installs directly from the Play Store on any Google TV or
+Android TV device.
+
+1. Install **Fully Kiosk Browser** from the Play Store on your Google TV
+2. Open it and enter `https://dashboard.mckoss.com` as the start URL
+3. Enable **Kiosk Mode** in the settings to hide all browser controls
+
+That's it. The dashboard fills the screen with no address bar, no tabs, no
+extra UI — just the display. It auto-refreshes on its own, so you can leave
+it running indefinitely.

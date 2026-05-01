@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Whidbey Island Dashboard - mckoss.com | Mike Koss</title>
+<meta name="description" content="We recently bought a vacation home on Whidbey Island — and I turned a
+spare TV into an ambient dashboard showing tides, weather, and ferry
+schedules. It&#39;s free to use at dashboard.mckoss.com.
+
+" />
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://mckoss.com/posts/whidbey-island-dashboard/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="We recently bought a vacation home on Whidbey Island — and I turned a spare TV into an ambient dashboard showing tides, weather, and ferry schedules. It&#39;s free to use at dashboard.mckoss.com.  " />
+<meta name="twitter:title" content="Whidbey Island Dashboard - mckoss.com | Mike Koss" />
+<meta name="twitter:site" content="https://twitter.com/mckoss" />
+<meta name="twitter:creator" content="https://twitter.com/mckoss" />
+
+
+<meta property="og:type" content="article" />
+<meta content="Whidbey Island Dashboard - mckoss.com | Mike Koss" property="og:title">
+<meta content="We recently bought a vacation home on Whidbey Island — and I turned a spare TV into an ambient dashboard showing tides, weather, and ferry schedules. It&#39;s free to use at dashboard.mckoss.com.  " property="og:description">
+<meta property="og:url" content="https://mckoss.com/posts/whidbey-island-dashboard/" />
+<meta property="og:site_name" content="mckoss.com | Mike Koss" />
+
+<meta property="article:published_time" content="2026-05-01 07:00:00 -0700 PDT" />
+
+
+
+
+
+<script type="application/ld+json">
+{ 
+    "@context": "http://schema.org", 
+    "@type": "BlogPosting",
+    "headline": "Whidbey Island Dashboard",
+    "genre": "",  
+    "url": "https:\/\/mckoss.com\/posts\/whidbey-island-dashboard\/",
+    "datePublished": "2026-05-01 07:00:00 -0700 PDT",
+    "description": "We recently bought a vacation home on Whidbey Island — and I turned a spare TV into an ambient dashboard showing tides, weather, and ferry schedules. It\u0027s free to use at dashboard.mckoss.com.  ",
+    "author": {
+        "@type": "Person",
+        "name": ""
+    }
+ }
+</script>
+
+
+
+
+<link rel="stylesheet" href="/sass/main.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/custom.css">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="https://mckoss.com/">mckoss.com | Mike Koss</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse " id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://mckoss.com/pages/about/">About</a></li>
+        <li><a href="https://mckoss.com/pages/contact/">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+</header>
+
+
+    <div class="container">
+      <div class="wrapper">
+        
+<div class="row">
+<div class="col-md-8">
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+          <header class="post-header">
+            <h1 class="post-title" itemprop="name headline">Whidbey Island Dashboard</h1>
+            <p class="post-meta"><time datetime='2026-05-01T07:00:00-07:00' itemprop="datePublished">May 1, 2026</time></p>
+                 
+          </header>
+
+          
+          <div class="post-img">
+            
+            
+            <img src="/posts/whidbey-island-dashboard/whidbey-dashboard_hu2eb061a3d5fab66237fae5622b5dda04_99327_800x400_fit_box_3.png" alt="whidbey-dashboard.png">
+          </div>
+         
+
+          <div class="post-content" itemprop="articleBody">
+            <p>Debbie and I recently bought a vacation home on Whidbey Island. The house had
+a couple of unused TVs, and I wanted something useful on them — tides, weather,
+ferry times. So I built a dashboard.</p>
+<h2 id="what-it-shows">What It Shows</h2>
+<figure><img src="whidbey-dashboard.png"/><figcaption>
+            <h4>TV view (960×540) — fits on one screen with no scrolling</h4>
+        </figcaption>
+</figure>
+
+<ul>
+<li><strong>Clock &amp; date</strong></li>
+<li><strong>Sunrise &amp; sunset</strong></li>
+<li><strong>Moon phase</strong> — SVG, no images, pure geometry</li>
+<li><strong>3-day weather forecast</strong> — current conditions + highs/lows/wind (Clinton, WA)</li>
+<li><strong>Tide predictions</strong> — hi/lo table, sparkline, and gauge (NOAA Hansville station)</li>
+<li><strong>Ferry schedules</strong> — both directions (Clinton ↔ Mukilteo) with live space availability</li>
+</ul>
+<p>Everything refreshes automatically and shows a staleness indicator per data source.</p>
+<h2 id="works-on-tv-phone-and-tesla">Works on TV, Phone, and Tesla</h2>
+<figure><img src="whidbey-dashboard-tesla.png"/><figcaption>
+            <h4>Tesla screen (1050×700) — vh-scaled fonts make the ferry times larger and easier to read from the driver&#39;s seat</h4>
+        </figcaption>
+</figure>
+
+<figure><img src="whidbey-dashboard-mobile.png"/><figcaption>
+            <h4>Mobile (390×844) — single column</h4>
+        </figcaption>
+</figure>
+
+<p>The layout is fully responsive. Font sizes are <code>vh</code>-scaled, so the Tesla&rsquo;s
+taller screen genuinely renders larger text — not just more whitespace. A phone
+gets a single-column stacked layout.</p>
+<p>On one trip I was sitting in the ferry line at Clinton and noticed the departure
+times were hard to read on the Tesla screen. I opened a chat with my AI
+assistant (<a href="https://openclaw.ai">OpenClaw</a>) and described the problem. A few
+exchanges later the fix was committed to GitHub and deployed. By the time I
+drove off the ferry at Mukilteo the display was fixed.</p>
+<h2 id="vibe-coded-with-openclaw">Vibe Coded with OpenClaw</h2>
+<p>The project was built entirely through conversation with AI — describing what I
+wanted, iterating on layout and features, without writing much code directly.</p>
+<p>The ferry schedule requires an API token from the Washington State Department of
+Transportation. When the AI flagged this, I told it to register for one itself
+using its email account. It navigated to the WSDOT developer portal, filled out
+the form, received the confirmation, and added the key to the config.</p>
+<h2 id="use-it-yourself">Use It Yourself</h2>
+<p>The dashboard is live at <strong><a href="https://dashboard.mckoss.com">dashboard.mckoss.com</a></strong>
+— free for anyone to use. The
+<a href="https://github.com/mckoss/whidbey-dashboard">source is on GitHub</a>.</p>
+
+          </div>
+
+    </article>
+    <div class="row">
+        
+         
+<div id="disqus_thread"></div>
+<script defer>
+(function() {
+    var d = document, s = d.createElement('script');
+    s.src = '//mckoss.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+        
+    </div>
+    
+    <div class="row">
+            <ul class="pager">
+             
+              
+                <li><a class="previous" href="https://mckoss.com/posts/paper-enigma/">The Paper Enigma &raquo;</a></li>
+              
+            </ul>
+    </div>
+</div>
+
+
+<div class="sidebar col-md-4 mt20">
+  
+    <div class="post-img">
+        
+        
+        <img src="/posts/whidbey-island-dashboard/whidbey-dashboard_hu2eb061a3d5fab66237fae5622b5dda04_99327_300x600_fit_box_3.png" alt="whidbey-dashboard.png">
+    </div>
+  
+
+  
+    
+    
+    <div class="mt10 related">
+      <h2>Related articles</h2>
+        <div class="tags"><small>Tags: projects, web, vibe-coding and ai</small></div>
+        <ul>
+        
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+          
+            
+          
+        
+        </ul>
+    </div>
+  
+
+  <div class="mt10 recent">
+    <h2>Recent articles</h2>        
+     <ul>
+        
+        
+          
+        
+          
+            <li>
+              <p><a href="https://mckoss.com/posts/paper-enigma/">The Paper Enigma</a>
+                <br><small>March 25, 2021</small>
+              </p>
+            </li>
+          
+        
+          
+            <li>
+              <p><a href="https://mckoss.com/posts/revamping-mckoss/">Revamping mckoss.com</a>
+                <br><small>March 24, 2021</small>
+              </p>
+            </li>
+          
+        
+      </ul>
+  </div>
+</div>
+
+
+</div>
+
+
+
+
+      </div>
+    </div>
+
+    <footer>
+    <div class="container">
+        <div class="row p20">
+            
+                <div class="col-md-4 text-center mt25">All rights reserved by <a target="_blank" href="https://mckoss.com">Mike Koss</a></div>
+            
+
+            <div class="col-md-4 text-center mt25">
+               
+               
+               
+                <a target="_blank" title="twitter" href="https://twitter.com/mckoss"><li class="social twitter"><i class="fa fa-twitter"></i></li></a>
+                
+                
+                <a target="_blank" title="instagram" href="https://instagram.com/mckoss"><li class="social instagram"><i class="fa fa-instagram"></i></li></a>
+                
+               
+                <a target="_blank" title="github" href="https://github.com/mckoss"><li class="social github"><i class="fa fa-github"></i></li></a>
+                
+               
+                <a target="_blank" title="email" href="mailto:mike@mckoss.com"><li class="social email"><i class="fa fa-envelope"></i></li></a>
+                
+            </div>
+
+        </div> 
+    </div>
+</footer>
+    
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="https://mckoss.com//js/bootstrap.min.js"></script>
+   
+     
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'G-GBPSK1HQ34', 'auto');
+  ga('send', 'pageview');
+</script>
+  
+  </body>
+
+</html>

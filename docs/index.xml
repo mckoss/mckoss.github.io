@@ -6,7 +6,20 @@
     <description>Recent content on mckoss.com | Mike Koss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Mar 2021 21:29:01 -0700</lastBuildDate><atom:link href="https://mckoss.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 07:00:00 -0700</lastBuildDate><atom:link href="https://mckoss.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whidbey Island Dashboard</title>
+      <link>https://mckoss.com/posts/whidbey-island-dashboard/</link>
+      <pubDate>Fri, 01 May 2026 07:00:00 -0700</pubDate>
+      
+      <guid>https://mckoss.com/posts/whidbey-island-dashboard/</guid>
+      <description>&lt;pre&gt;&lt;code&gt;We recently bought a vacation home on Whidbey Island — and I turned a
+spare TV into an ambient dashboard showing tides, weather, and ferry
+schedules. It&#39;s free to use at dashboard.mckoss.com.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
     <item>
       <title>The Paper Enigma</title>
       <link>https://mckoss.com/posts/paper-enigma/</link>

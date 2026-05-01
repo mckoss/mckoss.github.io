@@ -68,7 +68,7 @@ Android app, so it installs directly from the Play Store on any Google TV or
 Android TV device.
 
 1. Install **Fully Kiosk Browser** from the Play Store on your Google TV
-2. Open it and enter `https://dashboard.mckoss.com` as the start URL
+2. Open it and enter `https://whidbey-dashboard.mckoss.com` as the start URL
 3. Enable **Kiosk Mode** in the settings to hide all browser controls
 
 That's it. The dashboard fills the screen with no address bar, no tabs, no

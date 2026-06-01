@@ -4,7 +4,7 @@ date = 2026-06-01T11:45:00-07:00
 draft = false
 img = "morse-news.png"
 tags = ["projects", "web", "morse-code", "vibe-coding", "ai"]
-summary = "I vibe coded a small Morse code practice page that turns current news headlines into CW audio, then linked it up with a couple of older Morse code reference tools: a cheat sheet and a decoder tree."
+summary = "I vibe coded a small Morse code practice page that turns current news headlines into CW audio, then linked it up with a couple of older Morse code reference tools for ham radio contacts and visualizing the code."
 +++
 
 I have been playing with Morse code again, and one thing I wanted was a
@@ -53,19 +53,32 @@ framework, no complicated deployment machinery.
 This is not my first little Morse code tool. A while back I made a couple of
 static references as part of my Morse Keyer project.
 
-The first is a compact cheat sheet for learning the code:
+The first is a Morse code cheat sheet:
 
 > [Morse Code Cheat Sheet](https://mckoss.com/morse-keyer/cheat-sheet.html)
 
-The second is a decoder tree. It is a visual way to decode Morse by walking left
-or right through a binary tree: dot one way, dash the other.
+It is most useful for understanding the extra symbols, abbreviations, and
+protocols that show up in a typical Morse code or CW contact over ham radio.
+The straight alphabet and numbers are only part of what you hear on the air.
+There are prosigns, Q signals, procedural marks, and the general structure of a
+contact: calling, answering, exchanging reports, sending names and locations,
+and signing off.
+
+The page also includes the letters and numbers. Some people prefer to keep
+those off a cheat sheet once they are memorized, but I wanted a complete page
+that could be printed and kept at the station for a quick refresher.
+
+The second page is a Morse code decoder tree:
 
 > [Morse Code Decoder Tree](https://mckoss.com/morse-keyer/morse-tree.html)
 
-Those pages are simple, but I still like them. The cheat sheet is useful when
-learning the alphabet, and the tree is useful when hearing a character and
-trying to decode it on the fly.
+That one is more of a visualization. It lays out letters, numbers, and common
+symbols in the space of possible dots and dashes. A dot takes one branch, a dash
+takes the other, and each endpoint is a Morse character. I liked seeing the
+code fill out that kind of space-filling tree structure; it makes the shape of
+the code visible in a way a flat table does not.
 
 Together, the cheat sheet, decoder tree, and Morse News page make a nice little
-practice loop: learn the symbols, decode unfamiliar characters, then copy real
-headlines by ear.
+practice loop: learn the structure of a CW contact, keep the symbols nearby,
+visualize how the code maps into dots and dashes, then copy real headlines by
+ear.

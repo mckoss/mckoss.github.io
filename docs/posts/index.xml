@@ -6,8 +6,15 @@
     <description>Recent content in Posts on mckoss.com | Mike Koss</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 07:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:45:00 -0700</lastBuildDate>
     <atom:link href="https://mckoss.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vibe Coding a Morse Code News Practice Page</title>
+      <link>https://mckoss.com/posts/vibe-coding-morse-news/</link>
+      <pubDate>Mon, 01 Jun 2026 11:45:00 -0700</pubDate>
+      <guid>https://mckoss.com/posts/vibe-coding-morse-news/</guid>
+      <description>I vibe coded a small Morse code practice page that turns current news headlines into CW audio, then linked it up with a couple of older Morse code reference tools: a cheat sheet and a decoder tree.</description>
+    </item>
     <item>
       <title>Whidbey Island Dashboard</title>
       <link>https://mckoss.com/posts/whidbey-island-dashboard/</link>

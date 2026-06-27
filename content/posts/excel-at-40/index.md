@@ -1,5 +1,5 @@
 +++
-title = "Excel at 40"
+title = "Excel is XL (40)"
 date = 2026-06-26T19:42:00-07:00
 draft = false
 img = "excel-at-40.jpg"

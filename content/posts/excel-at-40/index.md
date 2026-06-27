@@ -15,6 +15,17 @@ Here is the talk:
 
 {{< youtube id="KLDGpMY6Mz0" title="Mike Koss - Bulgaria Excel Days 2025" >}}
 
+## Reunion Photos
+
+We also got together for a reunion dinner around the anniversary. A few photos
+from the evening:
+
+{{< figure src=excel-reunion-1.jpg title="Excel reunion dinner, with an original Macintosh running Excel." >}}
+
+{{< figure src=excel-reunion-2.jpg title="An original Macintosh running Excel, with early Microsoft Excel materials." >}}
+
+{{< figure src=microsoft-blibbet-party-favor.jpg title="Party favor for the reunion dinner: the original Microsoft logo, known as the Blibbet." >}}
+
 Around the same time, I also spoke with Gill Kearsley for the BBC's *Witness
 History* series. It is a short radio piece about Excel's launch and some of the
 stories around the spreadsheet world it helped create.
